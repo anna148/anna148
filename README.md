@@ -74,4 +74,16 @@ I'm passionate about applying technology to solve real-world problems and contin
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
+---
+
+## Featured Projects
+
+### Retail Sales Performance Analysis
+
+**Technologies:** Power BI | Data Visualization | Business Intelligence
+
+An interactive Power BI dashboard analyzing retail sales performance, product trends, customer behavior, and regional insights to support data-driven business decisions.
+
+[View Project on GitHub](https://github.com/anna148/Retail-Sales-Performance-Analysis)
+
 
