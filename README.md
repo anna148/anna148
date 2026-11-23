@@ -15,3 +15,23 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=9D7CFF&center=true&vCenter=true&width=650&lines=MS+in+Information+Technology;Data+Analytics+%7C+Python+%7C+SQL;Exploring+AI+and+Machine+Learning;Turning+Data+into+Meaningful+Insights" alt="Typing SVG" />
 
 </div>
+
+
+---
+
+## About Me
+
+I'm currently pursuing a Master's in Information Technology at the **University of St. Thomas**, with a growing interest in data analytics, business intelligence, and emerging technologies.
+
+My experience in Executive Education and Admissions Processing has strengthened my ability to work with data, manage information, and support business operations.
+
+I'm passionate about applying technology to solve real-world problems and continuously developing my technical skills through academic projects and hands-on learning.
+
+### Current Focus
+
+- **Education:** MS in Information Technology
+- **Technical Interests:** Data Analytics, Business Intelligence, AI, and Machine Learning
+- **Skills:** Python, SQL, Power BI, and Data Visualization
+- **Professional Experience:** Executive Education and Admissions Processing
+- **Career Goal:** Opportunities in Data Analytics, IT, and Technology
+
