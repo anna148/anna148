@@ -35,3 +35,25 @@ I'm passionate about applying technology to solve real-world problems and contin
 - **Professional Experience:** Executive Education and Admissions Processing
 - **Career Goal:** Opportunities in Data Analytics, IT, and Technology
 
+
+---
+
+## Technical Skills & Tools
+
+### Programming & Data
+<p>
+  <img src="https://skillicons.dev/icons?i=python,mysql&theme=dark" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
+
+### Cloud & Development Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,git,github,vscode&theme=dark" />
+</p>
+
+### Platforms & Technologies
+<p>
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
+
