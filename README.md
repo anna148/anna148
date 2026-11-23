@@ -87,3 +87,9 @@ An interactive Power BI dashboard analyzing retail sales performance, product tr
 [View Project on GitHub](https://github.com/anna148/Retail-Sales-Performance-Analysis)
 
 
+<div align="center">
+  <a href="https://github.com/anna148/Retail-Sales-Performance-Analysis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anna148&repo=Retail-Sales-Performance-Analysis&theme=tokyonight&hide_border=true" alt="Retail Sales Performance Analysis repository card" />
+  </a>
+</div>
+
