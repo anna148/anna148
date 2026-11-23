@@ -1,6 +1,4 @@
 
-
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/anna148/anna148/main/Banner.png" alt="Anamika Barua Pixel Art Banner" width="100%" />
 </div>
@@ -40,11 +38,15 @@ I'm passionate about applying technology to solve real-world problems and contin
 
 ## Technical Skills & Tools
 
+
 ### Programming & Data
+
 <p>
-  <img src="https://skillicons.dev/icons?i=python,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
+
 
 ### Cloud & Development Tools
 <p>
