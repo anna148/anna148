@@ -89,6 +89,17 @@ I'm passionate about applying technology to solve real-world problems and contin
   </a>
 </div>
 
+### Education and Salary Analysis
+
+**Technologies:** Python | Pandas | Jupyter Notebook | Data Visualization | EDA
+
+<div align="center">
+  <a href="https://github.com/anna148/education-salary-analysis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anna148&repo=education-salary-analysis&theme=tokyonight&hide_border=true" alt="Education and Salary Analysis" />
+  </a>
+</div>
+
+
 ---
 
 ## GitHub Statistics
