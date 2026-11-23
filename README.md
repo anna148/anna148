@@ -74,6 +74,7 @@ I'm passionate about applying technology to solve real-world problems and contin
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
+
 ---
 
 ## Featured Projects
@@ -82,14 +83,50 @@ I'm passionate about applying technology to solve real-world problems and contin
 
 **Technologies:** Power BI | Data Visualization | Business Intelligence
 
-An interactive Power BI dashboard analyzing retail sales performance, product trends, customer behavior, and regional insights to support data-driven business decisions.
-
-[View Project on GitHub](https://github.com/anna148/Retail-Sales-Performance-Analysis)
-
-
 <div align="center">
   <a href="https://github.com/anna148/Retail-Sales-Performance-Analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anna148&repo=Retail-Sales-Performance-Analysis&theme=tokyonight&hide_border=true" alt="Retail Sales Performance Analysis repository card" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anna148&repo=Retail-Sales-Performance-Analysis&theme=tokyonight&hide_border=true" alt="Retail Sales Performance Analysis" />
   </a>
 </div>
+
+---
+
+## GitHub Statistics
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=anna148&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anna148&theme=tokyo-night&hide_border=true&area=true" alt="Anamika Barua GitHub Contribution Graph" width="100%" />
+
+</div>
+
+---
+
+## Connect With Me
+
+<div align="center">
+
+  <a href="https://www.linkedin.com/in/anamika-barua-049850178/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <a href="mailto:anamikaarpi03@gmail.com">
+    <img src="https://img.shields.io/badge/Email-7851A9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
+  <a href="https://github.com/anna148">
+    <img src="https://img.shields.io/badge/GitHub-343A40?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+
+</div>
+
 
