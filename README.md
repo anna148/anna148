@@ -38,15 +38,16 @@ I'm passionate about applying technology to solve real-world problems and contin
 
 ## Technical Skills & Tools
 
-
 ### Programming & Data
 
 <p>
   <img src="https://skillicons.dev/icons?i=python&theme=dark" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/SSMS-555555?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
-
 
 ### Cloud & Development Tools
 <p>
