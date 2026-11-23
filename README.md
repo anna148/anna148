@@ -1,4 +1,13 @@
 
+
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/anna148/anna148/main/Banner.png" alt="Anamika Barua Pixel Art Banner" width="100%" />
+</div>
+
+<br>
+
+
 <div align="center">
 
 # Hi there, I'm Anamika Barua! 👋
