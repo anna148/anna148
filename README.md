@@ -34,29 +34,44 @@ I'm passionate about applying technology to solve real-world problems and contin
 - **Career Goal:** Opportunities in Data Analytics, IT, and Technology
 
 
+
 ---
 
 ## Technical Skills & Tools
 
-### Programming & Data
+### Programming & Databases
 
 <p>
   <img src="https://skillicons.dev/icons?i=python&theme=dark" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/SSMS-555555?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SSMS-555555?style=for-the-badge" />
+</p>
+
+### Data Analytics & Visualization
+
+<p>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
 </p>
 
 ### Cloud & Development Tools
+
 <p>
   <img src="https://skillicons.dev/icons?i=aws,git,github,vscode&theme=dark" />
 </p>
 
 ### Platforms & Technologies
+
 <p>
   <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
+
 
